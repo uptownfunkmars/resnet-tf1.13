@@ -36,6 +36,7 @@
 - run_resnet_64_one.py          
 > 训练
 
+## 其他
 - focal_loss.py
 > focal_loss的实现。
 
