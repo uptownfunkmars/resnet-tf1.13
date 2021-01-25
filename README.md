@@ -33,7 +33,7 @@
 - train_resnet_64_one.py         
 > 模型训练定义
 
-- run_resnet_64_one.py          
+- run_resnet_64_one.sh          
 > 训练
 
 ## 其他
